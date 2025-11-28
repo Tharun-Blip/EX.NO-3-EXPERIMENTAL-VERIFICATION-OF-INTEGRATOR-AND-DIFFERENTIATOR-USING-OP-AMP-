@@ -69,7 +69,9 @@ CIRCUIT DIAGRAM
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="703" height="480" alt="image" src="https://github.com/user-attachments/assets/27a7d43a-5ccc-457c-9e81-3a5fe13a8aaa" />
+
+<img width="1157" height="854" alt="image" src="https://github.com/user-attachments/assets/1aed8850-663f-486b-bdd1-55749da40d7b" />
+
 
 
 
@@ -149,7 +151,9 @@ AND
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="736" height="545" alt="image" src="https://github.com/user-attachments/assets/33c609e2-30b4-4178-bc7b-09b4699658c6" />
+<img width="1127" height="762" alt="image" src="https://github.com/user-attachments/assets/bc34e660-27b8-4b5d-8c1a-f4a5e7ede11c" />
+
+
 
 
 ---
